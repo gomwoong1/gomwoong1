@@ -1,3 +1,4 @@
+<div align="center">
 # Skills
 ##### Language
 <img src="https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/c_lang-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -14,4 +15,7 @@
 #### Tool
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgomwoong1&count_bg=%23AFB2AC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomwoong1&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomwoong1&show_icons=true&theme=transparent)
+
+</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgomwoong1&count_bg=%23AFB2AC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/gomwoong1)https://github.com/gomwoong1)
